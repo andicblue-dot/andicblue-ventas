@@ -6,3 +6,4 @@ google-auth-oauthlib
 gspread-dataframe
 plotly
 reportlab
+base64
